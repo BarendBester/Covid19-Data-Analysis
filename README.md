@@ -1,4 +1,4 @@
-#Data Analysis of Coronavirus (Covid-19) Deaths
+# Data Analysis of Coronavirus (Covid-19) Deaths
 ## Covid Data Analysis
 ### This project analyses data from covid infections, vaccinations, and deaths
 - Which had the highest infection percentage?
