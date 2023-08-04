@@ -1,4 +1,4 @@
-# The effect of Covid-19 globally on the Population
+#Data Analysis of Coronavirus (Covid-19) Deaths
 ## Covid Data Analysis
 ### This project analyses data from covid infections, vaccinations, and deaths
 - Which had the highest infection percentage?
