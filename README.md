@@ -1,6 +1,6 @@
 # The effect of Covid globally on the Population
 ## Covid Data Analysis
-### This project anlysesis data from covid infections & vaccinations
+### This project analyses data from covid infections, vaccinations, and deaths
 - Which had the highest infection percentage?
 - Which countries had the lowest infection rate?
 - Were countries that are getting vaccinated effected less by death ratio?
