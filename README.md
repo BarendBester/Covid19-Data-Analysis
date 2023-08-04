@@ -1,4 +1,4 @@
-# Covid_SQL_Project2023
+# The effect of Covid globally on the Population
 ## Covid Data Analysis
 ### This project anlysis data from covid infections & vaccinations
 - Which had the highest infection percentage?
